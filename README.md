@@ -44,6 +44,30 @@ Try **HackinOS OpenCore Builder** today—build your Hackintosh with just two cl
 
 ---
 
+## 💼 Professional Hackintosh Services
+
+Need expert help with your Hackintosh? We offer:
+
+- ✅ Custom EFI builds tailored to your hardware
+- ⚙️ Performance optimization and system tuning
+- 🛠️ Troubleshooting and long-term maintenance
+- 💼 Specialized Hackintosh builds for:
+  - Developers
+  - Designers / Video editors
+  - Office & Workstation setups
+
+## 📞 Contact & Support
+
+We’re always ready to help!  
+Reach out to us through any of the following platforms:
+
+- 🌐 Website: [www.hackinos.com](https://www.hackinos.com)
+- 🗣️ Discord: [hackinOS Community](https://discord.gg/CX4H3tk4FM)
+- 📘 Facebook: [facebook.com/hackinos](https://facebook.com/hackinos)
+- 📘 Facebook Group: [facebook.com/groups/hackinosautotool](https://facebook.com/groups/hackinosautotool)
+- 💬 Telegram: [t.me/hackinos](https://t.me/hackinos)
+- 📱 Zalo / WhatsApp / Signal / Phone: **+84 931 79 89 00**
+
 ![HackinOS OpenCore Builder](https://raw.githubusercontent.com/ihackinOS/hackinOS-OpenCore-Builder-V2/refs/heads/main/hackinOS%20OpenCore%20Builder%20V2.webp)
 
 ![HackinOS OpenCore Builder 1](https://raw.githubusercontent.com/ihackinOS/hackinOS-OpenCore-Builder-V2/refs/heads/main/hackinOS%20OpenCore%20Builder%20V2-1.webp)
