@@ -1,5 +1,7 @@
 # 🚀 Introducing HackinOS OpenCore Builder V2 — The Simplest & Fastest OpenCore EFI Creator for Windows! 💻🍏
 
+[Youtube hackinOS OpenCOre Builder Version 2.0.0](https://www.youtube.com/watch?v=6PbEqjAsEPc)
+
 Are you tired of the complicated EFI building process for Hackintosh setups? Say goodbye to endless configurations and confusing software! **HackinOS OpenCore Builder** is here to transform your EFI creation experience into a *two-click* magic 🪄 that delivers a perfect, boot-ready EFI folder — no additional tweaking or third-party tools like ProperTree needed!
 
 ## 🌟 Why HackinOS OpenCore Builder?
